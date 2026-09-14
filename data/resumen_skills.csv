@@ -1,0 +1,22 @@
+﻿skill,num_ofertas,porcentaje
+Java,222,22.3
+AWS,201,20.2
+Python,194,19.5
+Machine Learning,156,15.6
+React,133,13.3
+SQL,114,11.4
+JavaScript,44,4.4
+Docker,43,4.3
+Kubernetes,42,4.2
+Azure,36,3.6
+Agile/Scrum,27,2.7
+Node.js,27,2.7
+Linux,22,2.2
+GCP,17,1.7
+HTML/CSS,12,1.2
+Django,10,1.0
+Git,7,0.7
+Pandas,4,0.4
+Flask,3,0.3
+TensorFlow,1,0.1
+PyTorch,1,0.1
